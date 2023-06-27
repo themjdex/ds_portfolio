@@ -14,3 +14,4 @@
 - Предсказание стоимости автомобилей: https://github.com/themjdex/numerical_methods_practicum
 - Прогнозирование заказов такси с использованием временных рядов: https://github.com/themjdex/taxi_forecast_practicum
 - Определение токсичности комментариев, NLP: https://github.com/themjdex/toxic_comment_nlp_practicum
+- Предсказание оттока клиентов у мобильного оператора: https://github.com/themjdex/telecom_churn_project/tree/main
